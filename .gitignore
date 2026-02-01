@@ -1,0 +1,30 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+
+# Builds
+apk/
+[Bb]uild/
+[Bb]uilds/
+
+# IDE
+.vscode/
+.vs/
+
+# Unity / Visual Studio files
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Cache
+.utmp/
+
+# Vuforia package (too large)
+Packages/com.ptc.vuforia.engine-*.tgz
+
+# Large sample assets
+Assets/**/SamplesResources/
